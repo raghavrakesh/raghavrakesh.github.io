@@ -1,0 +1,39 @@
+# Site settings
+title: Anjali P. Verma
+description: Ph.D. Economics, University of Texas at Austin
+url: 'https://anjalipverma.github.io'
+baseurl: ""
+google_analytics: 'UA-154653802-1'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Anjali P. Verma'
+  email: anjali.priya@utexas.edu
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']

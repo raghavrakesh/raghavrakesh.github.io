@@ -1,0 +1,122 @@
+---
+title:  " "
+categories: [jekyll]
+tags: [jekyll]
+---
+
+<body style="background-color:white;">
+  
+
+  
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
+
+  <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong><br>
+  <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font><br>
+  <font size="2" style="color:#000000;"> Presentations: Northwestern University(2022), Missouri State University(2022), San Diego State University(2022), University of Nevada Las Vegas(2022), IIM Ahmedabad(2022), Ashoka University(2022), ISB Hyderabad(2022), University of Queensland (2022), SEA 2021, Delhi School of Economics CDE Seminars, ACEGD ISI 2021    </font></b></p>
+ <ul style="margin-top:-17px;"> 
+  <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper studies the long-run effects of disruptive peers in disciplinary schools on educational and labor market outcomes of students placed at these institutions. The existing literature suggests that students placed at disciplinary schools tend to have significantly worse future outcomes. We provide evidence that the composition of peers at these institutions plays an important role in explaining this link. We use rich administrative data of high school students in Texas which provides a detailed record of each student's disciplinary placements, including their exact date of placement and assignment duration. This allows us to identify the relevant peers for each student based on their overlap at the institution. We leverage within school-year variation in peer composition at each institution to ask whether a student who overlaps with particularly disruptive peers has worse subsequent outcomes. We show that exposure to peers in highest quintile of disruptiveness relative to lowest quintile when placed at a disciplinary school increases students' subsequent removals (5-8% per year); reduces their educational attainment -- lower high-school graduation (6%), college enrollment (7%), and college graduation (17%); and worsens labor market outcomes -- lower employment (2.5%) and earnings (6.5%). Moreover, these effects are stronger when students have a similar peer group in terms of the reason for removal, or when the distribution of disruptiveness among peers is more concentrated than dispersed around the mean. Our findings draw attention to an unintended consequence of student removal to disciplinary schools, and highlights how brief exposures to disruptive peers can affect an individual's long-run trajectories.</font></p></details></ul>
+  
+  
+  
+ <h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS / ACCEPTED PAPERS</center></strong></h4>
+
+<p style="margin-top:30px;"><b><strong><a href="https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueac057/6780196?redirectedFrom=fulltext#no-access-message" target="_blank"><font size="3" style="color:#C35900">Clean Energy Access: Gender Disparity, Health, and Labor Supply</font></a></strong><br>
+<font size="3" style="color:#606060;"><span style="font-weight:bold"> Forthcoming, <font size="3" style="color:#000000;"> Economic Journal </font></span></font><br>
+<font size="2" style="color:#000000;"> with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank"><font face="Arial" color="#C35900">Imelda </font></a></font>&ensp;|&ensp;<font size="2" style="color:#000000;">Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > <font face="Arial" color="#C35900">GlobalDev</font></a> , <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" ><font face="Arial" color="#C35900">EnergyEcoLab , <a href="https://cepr.org/voxeu/columns/gender-health-energy-nexus-evidence-indonesia" ><font face="Arial" color="#C35900">Vox</font></a></font><br>
+<font size="2" style="color:#000000;"> Presentations: NEUDC 2019, ACEGD ISI 2019, SEA 2020, PAA 2020 (event cancelled), EAERE-FEEM Summer School 2020*, University of Luxembourg 2020*,
+Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, Loyola University Chicago 2020*, World Bank 2021* </font></b></p>
+<ul style="margin-top:-17px;">
+  
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Women bear a disproportionate share of health and time burden associated with lack of access to modern energy. In this paper, we study the impact of clean energy access on adult health and labor supply outcomes by exploiting a nationwide rollout of clean cooking fuel program in Indonesia. This program led to a large-scale fuel switching, from kerosene, a dirty fuel, to liquid petroleum gas, a cleaner one. Using longitudinal survey data from the Indonesia Family Life Survey and exploiting the staggered structure of the program rollout, we find that access to clean cooking fuel led to a significant improvement in women's health, particularly among those who spend most of their time indoors doing housework. We also find an increase in women's work hours, suggesting that access to cleaner fuel can improve women's health and plausibly their productivity, allowing them to supply more market labor. For men, we find an increase in the work hours and propensity to have an additional job, mainly in households where women accrued the largest health and labor benefits from the program. These results highlight the role of clean energy in reducing gender disparity in health and point to the existence of positive externalities from the improved health of women on other members of the household.</font></p></details></ul>
+  
+  
+  
+
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
+
+<p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/Alimony and Female Labor Supply.pdf" target="_blank"><font size="3" style="color:#C35900">Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></a></strong><br>
+<font size="3" style="color:#606060;"><span style="font-weight:bold">Under Review  </span></font><br>
+<font size="2" style="color:#000000;"> Other Versions: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3899981" target="_blank"><font face="Arial" color="#C35900">SSRN </font></a></font><br>
+<font size="2" style="color:#000000;"> Presentations: APPAM Seminar Series 2021 | SEA 2021 (upcoming) </font></p>
+<ul style="margin-top:-17px;">
+  
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper studies the labor supply response of women to changes in expected alimony. Using an alimony law change in the US that significantly reduced the post-divorce alimony support among women, I first show that this led to an increase in divorce probability. Second, consistent with the theoretical prediction from a simple model of labor supply, the reform led to an increase in the female labor force participation, with a larger increase among ever-married and more educated samples of women. As a result, the average female wage income increased after the reform. While labor supply increased, I show that most of this increase was concentrated in part-time employment, which may not be sufficient to compensate for the expected loss in alimony income. I estimate a net loss of $40,621 in PDV of lifetime income due to the reform. In light of the recent movement in the US to reform alimony laws, these findings are pertinent to understand its implications on women's labor supply and economic well-being.</font></p></details></ul>
+  
+<p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/Heat, Technology, and Labor Productivity.pdf" target="_blank"><font size="3" style="color:#C35900">Can Technology Mitigate the Impact of Heat on Labor Productivity? Experimental Evidence from India</font></a></strong><br>
+<font size="3" style="color:#606060;"><span style="font-weight:bold"> </span></font><br>
+<font size="2" style="color:#000000;">with <a href="https://blogs.worldbank.org/team/anna-custers" target="_blank"><font face="Arial" color="#C35900" size="2">Anna Custers</font></a>, <a href="https://www.poverty-action.org/people/bhavani-prathap-kasina" target="_blank"><font face="Arial" color="#C35900" size="2">Bhavani P. Kasina</font></a> and <a href="https://sites.google.com/view/deepak-saraswat/home?authuser=0" target="_blank"><font face="Arial" color="#C35900" size="2">Deepak Saraswat</font></a></font> &ensp;|&ensp;<font size="2" style="color:#000000;">Coverage: <a href="https://www.ideasforindia.in/topics/productivity-innovation/can-technology-mitigate-the-impact-of-heat-on-worker-productivity.html" ><font face="Arial" color="#C35900" size="2"> IGC - Ideas For India</font></a></font>
+<ul style="margin-top:-17px;">
+  
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper analyses the role of technology in reducing heat-induced labor productivity losses. For this, we use a field experiment in India which randomized the use of <em>productivity-augmenting</em> digital mode versus classic paper-and-pen mode for conducting 2000 household surveys. Combining this experimentally induced variation in survey mode with day-to-day variation in temperature, we estimate the impact of survey mode on surveyor productivity as temperature rises. We find that as temperature rises and working conditions start to deteriorate, using digital-mode results in 5 percent higher surveyor-productivity compared to paper surveys. These relative productivity gains are mainly concentrated on extremely hot days - where the adverse impact of heat is likely at its peak. We show that these impacts are not driven by differences in characteristcis of surveyor or respondents, thereby pointing to the role of technology in reducing the adverse effects of heat.</font></p></details></ul>
+
+
+<!----Alimony Project--->
+
+<!--<p style="margin-top:30px;"><strong><font size="3"><u>Female Labor Supply Response to Alimony: Evidence from Massachusetts</u></font></strong><em><font size="3"> -- Draft coming soon</font></em><br></p>
+<p style="margin-top:30px;"><strong><font size="3"><u>Female Labor Supply Response to Alimony: Evidence from Massachusetts</u></font><font size="3" style="color:#606060;"><span style="font-weight:bold"> -- Under Review </span></font></strong><br></p>
+<ul style="margin-top:-20px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper studies the labor supply response of women to changes in expected alimony. I exploit the Massachusetts’ Alimony Reform Act of 2011 which significantly reduced post-divorce alimony support, primarily among women. Consistent with theoretical predictions from a simple model oflabor supply in the presence of divorce and alimony payments, I show that the reform led to —a) an increase in separation probabilities, b) an increase in female labor force participation, and c)an increase in average female wage-income after the reform.  While women increased their labor participation in response to the reform, most of this increase occurred in low-paid part-time jobs, which may not be sufficient to compensate for the lost alimony income.  A back of the envelope calculation suggests a net reduction in the expected lifetime income of women due to the reform. These findings are pertinent in understanding the implications of the recent movement in the US for elimination of the lifetime alimony provision.</font></p></details></ul>-->
+
+<!----Work In Progress----->
+<h4 style="margin-top:40px;" id="work-in-progress"><strong><center> SELECTED WORK IN PROGRESS</center></strong></h4>
+  
+<p style="margin-top:30px;"><b><font size="3" style="color:#505050;"><span style="font-weight:bold">Exclusionary Discipline: Impact of Student Removal to Disciplinary Alternative Programs in Texas</span></font><br>
+  <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font> | <font size="2" style="color:#000000;"> Presentations: APPAM Seminar Series 2021* </font></b></p>
+  
+<ul style="margin-top:-20px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> In this paper, we analyze the impact of disciplinary removal of students to alternative schools on short-run and long-run outcomes of removed and regular students. We use the administrative records of all students in Texas public schools between 1999 and 2014, including their referrals to the Disciplinary Alternative Education Programs (DAEPs) and Juvenile Justice Alternative Education Programs (JJAEPs) which provided educational programming during periods of disciplinary removal. We employ two different empirical strategies to analyze the impact. First, noting that physical distance to DAEP campuses is an important determinant of a school’s propensity to refer students to DAEPs, we use the variation in the timing of the entry and exit of local DAEPs across Texas, employing an event-study design to analyze the impact. For the second empirical strategy, we exploit the fact that only counties of a certain size were required to establish JJAEPs, and use district population cutoff to estimate the impact of JJAEPs in an RD framework. </font></p></details></ul> 
+
+  
+  
+  
+<p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">To Apply or Not to Apply: Impact of Class Rank on College Application Choices</span></font></p>
+  
+<ul style="margin-top:-20px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> Academic assortative matching between college quality and student ability has been argued to maximizes the efficiency of human capital production. Existing literature indicate that there exists a mismatch between student and college quality that is unexplained by differences in factors such as, students’ test scores, SAT scores, demographic characteristics, parental income, financial aid, etc. This paper analyzes the impact of a student's high school class rank on their college application choices. Linking individual-level administrative records of high schools students in Texas to their college applications data between 2000 to 2016, I use a fixed-effects framework similar to Murphy and Weinhardt (2020) to analyze the impact of rank on college application. Preliminary findings show that for two students with same standardized test score (a proxy for ability), having higher class rank increases the propensity of applying to better ranked colleges. This suggests that variation in class ranks among similar students can account for some of the mismatches in college and student quality. </font></p></details></ul> 
+  
+  
+  
+  
+<p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">In The Dark: Impact of Streetlight Outages on Crimes</span></font><br>
+<font size="2" style="color:#000000;"> with <a href="https://scholar.google.com/citations?user=Ek1a88wAAAAJ&hl=en" target="_blank"><font face="Arial" color="#C35900">Alberto Chong</font></a>, <a href="https://econ.uconn.edu/person/michele-baggio/" target="_blank"><font face="Arial" color="#C35900">Michele Baggio</font></a>, <a href="https://vinayakiyer.github.io/about/" target="_blank"><font face="Arial" color="#C35900">Vinayak Iyer</font></a>, and <a href="https://nishithprakash.com/"><font face="Arial" color="#C35900">Nishith Prakash</font></a></font></p>
+  
+<ul style="margin-top:-20px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> In this paper, we explores the role of ambient lighting in affecting crime in a neighborhood. For this, we use the data on street light outages from complaints reported to Chicago’s 311 reporting system and map it to the publicly available microdata on crimes from the Chicago Police Department. First, we show that after controlling for census block and time fixed effects, distribution of streetlight outages are as good as random. Then, using the residual idiosyncratic variation in streetlight outages, we estimate the impact on crimes in the treatment neighborhood relative to the control neighborhood with no outages. Finally, we link the streetlight outages to data on civilian-police interactions to understand the effect of ambient lighting on police behavior and use of force. </font></p></details></ul> 
+
+  
+ <p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">Air Pollution, Educational Outcomes, and Long-Term Incarceration</span></font><br>
+<font size="2" style="color:#000000;"> with <a href="https://samuelarenberg.com/" target="_blank"><font face="Arial" color="#C35900">Sam Arenberg</font></a> and <a href="https://sethneller.github.io/" target="_blank"><font face="Arial" color="#C35900">Seth Neller</font></a></font></p>
+  
+<ul style="margin-top:-20px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> There is now substantial evidence that air pollution negatively impacts student outcomes. However, less is known about the mechanisms, critical periods, and potential long-term consequences of pollution exposure in later childhood and early adolescence. This project will utilize rich longitudinal administrative data from the Texas Educational Research Center on student outcomes and school characteristics, linked with later-life incarceration data to better understand the impacts of air pollution and its later-life outcomes.</font></p></details></ul> 
+
+
+<p style="margin-top:30px;"><font size="3" style="color:#505050;"><span style="font-weight:bold">From Classroom to Labor Market: The Divergent Paths of Black and White Americans</span></font><br>
+<font size="2" style="color:#000000;"> with <a href="https://samuelarenberg.com/" target="_blank"><font face="Arial" color="#C35900">Sam Arenberg</font></a> and <a href="https://sethneller.github.io/" target="_blank"><font face="Arial" color="#C35900">Seth Neller</font></a></font></p>
+  
+<ul style="margin-top:-20px;">
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> This project studies test-score and income gaps between Black and white Americans. We investigate these gaps using longitudinal administrative education and earnings records from the Texas Education Resource Center, focusing on a panel of children from recent cohorts (1986-91) who are observed continuously from 3rd grade through age 30. Our headline finding is that Black students performing at the 80th percentile of test scores have earnings in early adulthood similar to white students performing at the 20th percentile of test scores. We also find stark differences in the persistence of relative performance. Black students with low test scores are very likely to have low earnings, while white students with low test scores demonstrate much more upward mobility. Conversely, Black students with high test scores demonstrate much more downward mobility than white students with high test scores. Ongoing work decomposes the gaps into differences in high school graduation, college enrollment, major choice, industry, and location. Our findings, although descriptive, appear inconsistent with a popular narrative that closing test-score gaps between Black and white Americans would substantially reduce the gaps that appear at later ages in labor market outcomes.</font></p></details></ul>  
+  
+  
+  
+  
+<!----<h4 style="margin-top:40px;" id="policy-papers"><strong><center>OTHER POLICY RESEARCH</center></strong></h4>
+
+  <p style="margin-top:30px;"><b><strong><a href="https://texaserc.utexas.edu/wp-content/uploads/2021/08/114-UTA122-Brief-Setting-8.11.21-REV.pdf" target="_blank"><font size="3" style="color:#C35900">Disability, Special Education Setting, and Students’ Outcome </font></a></strong><font size="2" style="color:#000000;"> (Policy Brief)</font><br>
+
+<!--<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>-->
+
+
+
+
+<!--<p> My primary research fields are  <strong>Labor</strong>, <strong>Education</strong>, and <strong>Development</strong>. 
+
+ <!-- <p><b><strong><font size="3"><a href="https://www.dropbox.com/s/638v21f7fkvwwos/CleanEnergyAccess_V2.pdf?dl=0" target="_blank">Clean Energy Access: Gender Disparity, Health, and Labor Supply</a></font></strong><font size="3">, joint with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank">Imelda</a></font>, <em><font size="3"><span style="font-weight:bold">R&R at The Economic Journal</span></font></em>, [<font size="2"> Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > GlobalDev</a> | <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" >EnergyEcoLab Newsletter</a></font> ] </b></p>
+<ul style="margin-top:-20px;"></ul>-->
+<p style="margin-top:60px;"><font size="2" style="color:#000000;"> *presented by co-author</font></p>
+
+
+
+<!--</ul>-->
+
+
