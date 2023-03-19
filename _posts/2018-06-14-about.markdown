@@ -4,6 +4,7 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
+<!--
 <h4 style="margin-top:30px;" id="working-papers"><strong>About Me</strong></h4>
 
 <p><font color="#000000">I am a Ph.D. candidate in the Department of Economics at Michigan State University.</font></p>
@@ -21,3 +22,5 @@ tags: [jekyll]
 <font size="3" style="color:#606060;">  <strong>Forthcoming, </strong></font> <font size="3" style="color:#000000;"><strong> Economic Journal</strong> </font></p>
   
 <p><font color="#000000"> To view my full research page, click <a href="https://anjalipverma.github.io/research/"><b><font face="Arial" color="#C35900"> here</font></b></a>.</font></p>
+
+-->
