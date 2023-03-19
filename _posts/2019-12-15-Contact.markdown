@@ -3,9 +3,10 @@ title:  "Contact"
 categories: [jekyll]
 tags: [jekyll]
 ---
-<h4>Anjali Priya Verma</h4>
+<h4>Raghav Rakesh</h4>
 
+<!--
 <strong>Mailing Address:</strong> 2225 Speedway, BRB 1.116, University of Texas at Austin, Austin, TX 78712 <br>
 <strong>Email:</strong> anjali.priya@utexas.edu  <br>
 <strong>Twitter:</strong> @anjali_econ  <br>
-
+-->
