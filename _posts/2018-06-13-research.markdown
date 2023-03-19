@@ -6,9 +6,7 @@ tags: [jekyll]
 
 <body style="background-color:white;">
   
-<!--
-  
-<h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
+<!--<h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
   <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong><br>
   <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font><br>
@@ -95,9 +93,5 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
 <font size="2" style="color:#000000;"> with <a href="https://samuelarenberg.com/" target="_blank"><font face="Arial" color="#C35900">Sam Arenberg</font></a> and <a href="https://sethneller.github.io/" target="_blank"><font face="Arial" color="#C35900">Seth Neller</font></a></font></p>
   
 <ul style="margin-top:-20px;">
-<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> This project studies test-score and income gaps between Black and white Americans. We investigate these gaps using longitudinal administrative education and earnings records from the Texas Education Resource Center, focusing on a panel of children from recent cohorts (1986-91) who are observed continuously from 3rd grade through age 30. Our headline finding is that Black students performing at the 80th percentile of test scores have earnings in early adulthood similar to white students performing at the 20th percentile of test scores. We also find stark differences in the persistence of relative performance. Black students with low test scores are very likely to have low earnings, while white students with low test scores demonstrate much more upward mobility. Conversely, Black students with high test scores demonstrate much more downward mobility than white students with high test scores. Ongoing work decomposes the gaps into differences in high school graduation, college enrollment, major choice, industry, and location. Our findings, although descriptive, appear inconsistent with a popular narrative that closing test-score gaps between Black and white Americans would substantially reduce the gaps that appear at later ages in labor market outcomes.</font></p></details></ul>  
-  
-  
-  
---> 
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;"> This project studies test-score and income gaps between Black and white Americans. We investigate these gaps using longitudinal administrative education and earnings records from the Texas Education Resource Center, focusing on a panel of children from recent cohorts (1986-91) who are observed continuously from 3rd grade through age 30. Our headline finding is that Black students performing at the 80th percentile of test scores have earnings in early adulthood similar to white students performing at the 20th percentile of test scores. We also find stark differences in the persistence of relative performance. Black students with low test scores are very likely to have low earnings, while white students with low test scores demonstrate much more upward mobility. Conversely, Black students with high test scores demonstrate much more downward mobility than white students with high test scores. Ongoing work decomposes the gaps into differences in high school graduation, college enrollment, major choice, industry, and location. Our findings, although descriptive, appear inconsistent with a popular narrative that closing test-score gaps between Black and white Americans would substantially reduce the gaps that appear at later ages in labor market outcomes.</font></p></details></ul>--> 
 
