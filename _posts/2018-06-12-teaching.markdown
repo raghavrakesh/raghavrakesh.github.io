@@ -4,6 +4,8 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
+<!--
+
 <h4 style="margin-top:30px;" id="working-papers"><strong>Teaching Experience</strong></h4>
 <!---<h4><strong><p>University of Texas at Austin</p></strong></h4>-->
 <p style="margin-top:20px;"><strong style="color:#C35900">Teaching Assistant </strong> <font face="Arial" color="#C35900"> - University of Texas at Austin (2016-Present) </font></p>
@@ -52,6 +54,6 @@ tags: [jekyll]
 <li><font  color="#000000">Introductory Mathematical Economics <font size="-1" style="color:#000000;">(Graduate (M.A.) Course)</font><a href="{{ site.baseurl }}/files/DSE_core.pdf" target="_blank"><font size="-1" style="color:#C35900"> (Syllabus)</font></a></font></li>
 </ul>
 
-
+-->
 
 
