@@ -6,7 +6,7 @@ tags: [jekyll]
 
 <body style="background-color:white;">
   
-<-->
+<!--
   
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
 
@@ -99,25 +99,5 @@ Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, L
   
   
   
-  
-<!----<h4 style="margin-top:40px;" id="policy-papers"><strong><center>OTHER POLICY RESEARCH</center></strong></h4>
-
-  <p style="margin-top:30px;"><b><strong><a href="https://texaserc.utexas.edu/wp-content/uploads/2021/08/114-UTA122-Brief-Setting-8.11.21-REV.pdf" target="_blank"><font size="3" style="color:#C35900">Disability, Special Education Setting, and Students’ Outcome </font></a></strong><font size="2" style="color:#000000;"> (Policy Brief)</font><br>
-
-<!--<p><b><font size="3">Impact of Schools' Financial Incentives on Students' Outcomes </font></b></p>-->
-
-
-
-
-<!--<p> My primary research fields are  <strong>Labor</strong>, <strong>Education</strong>, and <strong>Development</strong>. 
-
- <!-- <p><b><strong><font size="3"><a href="https://www.dropbox.com/s/638v21f7fkvwwos/CleanEnergyAccess_V2.pdf?dl=0" target="_blank">Clean Energy Access: Gender Disparity, Health, and Labor Supply</a></font></strong><font size="3">, joint with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank">Imelda</a></font>, <em><font size="3"><span style="font-weight:bold">R&R at The Economic Journal</span></font></em>, [<font size="2"> Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > GlobalDev</a> | <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" >EnergyEcoLab Newsletter</a></font> ] </b></p>
-<ul style="margin-top:-20px;"></ul>-->
-<p style="margin-top:60px;"><font size="2" style="color:#000000;"> *presented by co-author</font></p>
-
-
-
-<!--</ul>-->
-
- <!--> 
+--> 
 
