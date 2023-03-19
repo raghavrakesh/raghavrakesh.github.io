@@ -6,7 +6,7 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="working-papers"><strong>About Me</strong></h4>
 
-<p><font color="#000000">I am a Ph.D. candidate in the Department of Economics at The University of Texas at Austin.</font></p>
+<p><font color="#000000">I am a Ph.D. candidate in the Department of Economics at Michigan State University.</font></p>
   
 <p><font color="#000000"> My research interest is in Labor Economics and Development Economics, with a specific focus on Education and Female Labor Supply. My Job Market Paper studies the role of disruptive peer effects at disciplinary alternative schools in Texas on subsequent disciplinary outcomes, educational attainment, and long-run labor market outcomes of students placed at these schools. </font></p>
 
