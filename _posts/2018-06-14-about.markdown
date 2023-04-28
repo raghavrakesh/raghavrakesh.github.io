@@ -4,14 +4,15 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
-<!--
+
 <h4 style="margin-top:30px;" id="working-papers"><strong>About Me</strong></h4>
 
 <p><font color="#000000">I am a Ph.D. candidate in the Department of Economics at Michigan State University.</font></p>
   
-<p><font color="#000000"> My research interest is in Labor Economics and Development Economics, with a specific focus on Education and Female Labor Supply. My Job Market Paper studies the role of disruptive peer effects at disciplinary alternative schools in Texas on subsequent disciplinary outcomes, educational attainment, and long-run labor market outcomes of students placed at these schools. </font></p>
+ 
+<p><font color="#000000"> My research interest is in Labor Economics and Economics of Education. My Job Market Paper studies the effects of foreign peers in post-secondary education on domestic students' academic outcomes. </font></p>
 
-
+<!-- 
 <p style="color:#000000;">For more information, please see my <a href="{{ site.baseurl }}/files/CV_Anjali_P_Verma.pdf"><b><font face="Arial" color="#C35900">CV </font></b></a> or contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#C35900">anjali.priya@utexas.edu</font></b></a>.</p>
 
 
