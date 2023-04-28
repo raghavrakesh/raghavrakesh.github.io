@@ -16,14 +16,10 @@ tags: [jekyll]
   
 <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">We examine the association between studying science in higher secondary school and labor market earnings in India. Studying science in high school is associated with 22% greater earnings than studying business or humanities. Earnings for science students are further enhanced with some fluency in English. Science education is also associated with more years of education, completing a professional degree, returns to entrepreneurship and working in public sector positions. Primary survey of high school students shows no discernible differences in behavioral characteristics of science students compared to others.</font></p></details></ul> 
 
-  <!--
-&ensp;|&ensp;<font size="2" style="color:#000000;">Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > <font face="Arial" color="#C35900">GlobalDev</font></a> , <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" ><font face="Arial" color="#C35900">EnergyEcoLab , <a href="https://cepr.org/voxeu/columns/gender-health-energy-nexus-evidence-indonesia" ><font face="Arial" color="#C35900">Vox</font></a></font><br>
-<font size="2" style="color:#000000;"> Presentations: NEUDC 2019, ACEGD ISI 2019, SEA 2020, PAA 2020 (event cancelled), EAERE-FEEM Summer School 2020*, University of Luxembourg 2020*,
-Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, Loyola University Chicago 2020*, World Bank 2021* </font></b></p>
+  
 
+<!--
   
-  
- 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
 
 <p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/Alimony and Female Labor Supply.pdf" target="_blank"><font size="3" style="color:#C35900">Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></a></strong><br>
