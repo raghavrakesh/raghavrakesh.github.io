@@ -20,7 +20,8 @@ tags: [jekyll]
  <h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS</center></strong></h4>
 
 <p style="margin-top:30px;"><b><strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.13044" target="_blank"><font size="3" style="color:#C35900">Science Education and Labor Market Outcomes in a Developing Economy</font></a></strong><br>
-<font size="3" style="color:#000000;"><span style="font-weight:bold">Economic Inquiry,<font size="3" style="color:#606060;"> 60(2), pages 741-763, 2022</font></span></font><br>&ensp;|&ensp;<font size="2" style="color:#000000;">Coverage:
+<font size="3" style="color:#000000;"><span style="font-weight:bold">Economic Inquiry,<font size="3" style="color:#606060;"> 60(2), pages 741-763, 2022</font></span></font><br>
+  
 <font size="2" style="color:#000000;"> with <a href="https://sites.google.com/virginia.edu/tarunjain/home" target="_blank"><font face="Arial" color="#C35900">Tarun Jain</font></a>, <a href="https://sites.google.com/view/abhiroop/home" target="_blank"><font face="Arial" color="#C35900">Abhiroop Mukhopadhyay</font></a>, and <a href="https://nishithprakash.com/"><font face="Arial" color="#C35900">Nishith Prakash</font></a></font></p>
 
  <ul style="margin-top:-17px;">
