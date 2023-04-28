@@ -12,7 +12,7 @@ tags: [jekyll]
   <b>
     <strong>
       <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.13044" target="_blank">
-        <font size="3" style="color:#18453B">Science Education and Labor Market Outcomes in a Developing Economy</font>
+        <font size="3" style="color:#008208">Science Education and Labor Market Outcomes in a Developing Economy</font>
       </a>
     </strong>
     <br>
