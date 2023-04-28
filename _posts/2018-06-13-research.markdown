@@ -6,23 +6,11 @@ tags: [jekyll]
 
 <body style="background-color:white;">
   
-<!--<h4 style="margin-top:30px;" id="working-papers"><strong><center>JOB MARKET PAPER</center></strong></h4>
-
-  <p style="margin-top:30px;"><b><strong><a href="{{ site.baseurl }}/files/Disruptive Interactions_JMP_Anjali P Verma.pdf" target="_blank"><font size="3" style="color:#C35900">Disruptive Interactions: Long-run Peer Effects of Disciplinary Schools </font></a></strong><br>
-  <font size="2" style="color:#000000;"> with <a href="https://www.akivayonahmeiselman.com/home" target="_blank"><font face="Arial" color="#C35900">A. Yonah Meiselman </font></a></font><br>
-  <font size="2" style="color:#000000;"> Presentations: Northwestern University(2022), Missouri State University(2022), San Diego State University(2022), University of Nevada Las Vegas(2022), IIM Ahmedabad(2022), Ashoka University(2022), ISB Hyderabad(2022), University of Queensland (2022), SEA 2021, Delhi School of Economics CDE Seminars, ACEGD ISI 2021    </font></b></p>
- <ul style="margin-top:-17px;"> 
-  <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper studies the long-run effects of disruptive peers in disciplinary schools on educational and labor market outcomes of students placed at these institutions. The existing literature suggests that students placed at disciplinary schools tend to have significantly worse future outcomes. We provide evidence that the composition of peers at these institutions plays an important role in explaining this link. We use rich administrative data of high school students in Texas which provides a detailed record of each student's disciplinary placements, including their exact date of placement and assignment duration. This allows us to identify the relevant peers for each student based on their overlap at the institution. We leverage within school-year variation in peer composition at each institution to ask whether a student who overlaps with particularly disruptive peers has worse subsequent outcomes. We show that exposure to peers in highest quintile of disruptiveness relative to lowest quintile when placed at a disciplinary school increases students' subsequent removals (5-8% per year); reduces their educational attainment -- lower high-school graduation (6%), college enrollment (7%), and college graduation (17%); and worsens labor market outcomes -- lower employment (2.5%) and earnings (6.5%). Moreover, these effects are stronger when students have a similar peer group in terms of the reason for removal, or when the distribution of disruptiveness among peers is more concentrated than dispersed around the mean. Our findings draw attention to an unintended consequence of student removal to disciplinary schools, and highlights how brief exposures to disruptive peers can affect an individual's long-run trajectories.</font></p></details></ul>
-  
-  -->
-
-  
- <h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS</center></strong></h4>
+<h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS</center></strong></h4>
 
 <p style="margin-top:30px;"><b><strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.13044" target="_blank"><font size="3" style="color:#C35900">Science Education and Labor Market Outcomes in a Developing Economy</font></a></strong><br>
 <font size="3" style="color:#000000;"><span style="font-weight:bold">Economic Inquiry,<font size="3" style="color:#606060;"> 60(2), pages 741-763, 2022</font></span></font><br>
-  
-<font size="2" style="color:#000000;"> with <a href="https://sites.google.com/virginia.edu/tarunjain/home" target="_blank"><font face="Arial" color="#C35900">Tarun Jain</font></a>, <a href="https://sites.google.com/view/abhiroop/home" target="_blank"><font face="Arial" color="#C35900">Abhiroop Mukhopadhyay</font></a>, and <a href="https://nishithprakash.com/"><font face="Arial" color="#C35900">Nishith Prakash</font></a></font></p>
+<font size="2" style="color:#000000;"> with <a href="https://sites.google.com/virginia.edu/tarunjain/home" target="_blank"><font face="Arial" color="#C35900">Tarun Jain</font></a>, <a href="https://sites.google.com/view/abhiroop/home" target="_blank"><font face="Arial" color="#C35900">Abhiroop Mukhopadhyay</font></a>, and <a href="https://nishithprakash.com/"><font face="Arial" color="#C35900">Nishith Prakash</font></a></font>
 
  <ul style="margin-top:-17px;">
   
