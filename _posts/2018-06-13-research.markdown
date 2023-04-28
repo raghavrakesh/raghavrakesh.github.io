@@ -59,7 +59,6 @@ tags: [jekyll]
   <b>
     <strong>
         <font size="3" style="color:#18453B">The Local Economic Impacts of Foreign Students</font>
-      </a>
     </strong>
     <br>
   </b>
