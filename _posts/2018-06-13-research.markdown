@@ -14,22 +14,27 @@ tags: [jekyll]
  <ul style="margin-top:-17px;"> 
   <details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">This paper studies the long-run effects of disruptive peers in disciplinary schools on educational and labor market outcomes of students placed at these institutions. The existing literature suggests that students placed at disciplinary schools tend to have significantly worse future outcomes. We provide evidence that the composition of peers at these institutions plays an important role in explaining this link. We use rich administrative data of high school students in Texas which provides a detailed record of each student's disciplinary placements, including their exact date of placement and assignment duration. This allows us to identify the relevant peers for each student based on their overlap at the institution. We leverage within school-year variation in peer composition at each institution to ask whether a student who overlaps with particularly disruptive peers has worse subsequent outcomes. We show that exposure to peers in highest quintile of disruptiveness relative to lowest quintile when placed at a disciplinary school increases students' subsequent removals (5-8% per year); reduces their educational attainment -- lower high-school graduation (6%), college enrollment (7%), and college graduation (17%); and worsens labor market outcomes -- lower employment (2.5%) and earnings (6.5%). Moreover, these effects are stronger when students have a similar peer group in terms of the reason for removal, or when the distribution of disruptiveness among peers is more concentrated than dispersed around the mean. Our findings draw attention to an unintended consequence of student removal to disciplinary schools, and highlights how brief exposures to disruptive peers can affect an individual's long-run trajectories.</font></p></details></ul>
   
-  
-  
- <h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS / ACCEPTED PAPERS</center></strong></h4>
+  -->
 
-<p style="margin-top:30px;"><b><strong><a href="https://academic.oup.com/ej/advance-article-abstract/doi/10.1093/ej/ueac057/6780196?redirectedFrom=fulltext#no-access-message" target="_blank"><font size="3" style="color:#C35900">Clean Energy Access: Gender Disparity, Health, and Labor Supply</font></a></strong><br>
-<font size="3" style="color:#606060;"><span style="font-weight:bold"> Forthcoming, <font size="3" style="color:#000000;"> Economic Journal </font></span></font><br>
-<font size="2" style="color:#000000;"> with <a href="https://sites.google.com/a/hawaii.edu/imelda/" target="_blank"><font face="Arial" color="#C35900">Imelda </font></a></font>&ensp;|&ensp;<font size="2" style="color:#000000;">Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > <font face="Arial" color="#C35900">GlobalDev</font></a> , <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" ><font face="Arial" color="#C35900">EnergyEcoLab , <a href="https://cepr.org/voxeu/columns/gender-health-energy-nexus-evidence-indonesia" ><font face="Arial" color="#C35900">Vox</font></a></font><br>
+  
+ <h4 style="margin-top:30px;" id="working-papers"><strong><center>PUBLICATIONS</center></strong></h4>
+
+<p style="margin-top:30px;"><b><strong><a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ecin.13044" target="_blank"><font size="3" style="color:#C35900">Science Education and Labor Market Outcomes in a Developing Economy</font></a></strong><br>
+<font size="3" style="color:#000000;"><span style="font-weight:bold">Economic Inquiry,<font size="3" style="color:#606060;"> 60(2), pages 741-763, 2022</font></span></font><br>&ensp;|&ensp;<font size="2" style="color:#000000;">Coverage:
+<font size="2" style="color:#000000;"> with <a href="https://sites.google.com/virginia.edu/tarunjain/home" target="_blank"><font face="Arial" color="#C35900">Tarun Jain</font></a>, <a href="https://sites.google.com/view/abhiroop/home" target="_blank"><font face="Arial" color="#C35900">Abhiroop Mukhopadhyay</font></a>, and <a href="https://nishithprakash.com/"><font face="Arial" color="#C35900">Nishith Prakash</font></a></font></p>
+
+ <ul style="margin-top:-17px;">
+  
+<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">We examine the association between studying science in higher secondary school and labor market earnings in India. Studying science in high school is associated with 22% greater earnings than studying business or humanities. Earnings for science students are further enhanced with some fluency in English. Science education is also associated with more years of education, completing a professional degree, returns to entrepreneurship and working in public sector positions. Primary survey of high school students shows no discernible differences in behavioral characteristics of science students compared to others.</font></p></details></ul> 
+
+  <!--
+&ensp;|&ensp;<font size="2" style="color:#000000;">Coverage: <a href="https://www.globaldev.blog/blog/improving-women’s-health-and-economic-outcomes-access-clean-energy" > <font face="Arial" color="#C35900">GlobalDev</font></a> , <a href="http://energyecolab.uc3m.es/wp-content/uploads/2020/10/03_Newsletter-EnergyEcoLab_2020-3.pdf" ><font face="Arial" color="#C35900">EnergyEcoLab , <a href="https://cepr.org/voxeu/columns/gender-health-energy-nexus-evidence-indonesia" ><font face="Arial" color="#C35900">Vox</font></a></font><br>
 <font size="2" style="color:#000000;"> Presentations: NEUDC 2019, ACEGD ISI 2019, SEA 2020, PAA 2020 (event cancelled), EAERE-FEEM Summer School 2020*, University of Luxembourg 2020*,
 Paris School of Economics 2020*, Paris Dauphine University 2020*, IHEID 2020*, Loyola University Chicago 2020*, World Bank 2021* </font></b></p>
-<ul style="margin-top:-17px;">
-  
-<details><summary><font size="2">Abstract:</font></summary><p><font size="2" style="color:#000000;">Women bear a disproportionate share of health and time burden associated with lack of access to modern energy. In this paper, we study the impact of clean energy access on adult health and labor supply outcomes by exploiting a nationwide rollout of clean cooking fuel program in Indonesia. This program led to a large-scale fuel switching, from kerosene, a dirty fuel, to liquid petroleum gas, a cleaner one. Using longitudinal survey data from the Indonesia Family Life Survey and exploiting the staggered structure of the program rollout, we find that access to clean cooking fuel led to a significant improvement in women's health, particularly among those who spend most of their time indoors doing housework. We also find an increase in women's work hours, suggesting that access to cleaner fuel can improve women's health and plausibly their productivity, allowing them to supply more market labor. For men, we find an increase in the work hours and propensity to have an additional job, mainly in households where women accrued the largest health and labor benefits from the program. These results highlight the role of clean energy in reducing gender disparity in health and point to the existence of positive externalities from the improved health of women on other members of the household.</font></p></details></ul>
-  
-  
-  
 
+  
+  
+ 
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
 
 <p style="margin-top:30px;"><strong><a href="{{ site.baseurl }}/files/Alimony and Female Labor Supply.pdf" target="_blank"><font size="3" style="color:#C35900">Female Labor Supply Response to Alimony: Evidence from Massachusetts</font></a></strong><br>
