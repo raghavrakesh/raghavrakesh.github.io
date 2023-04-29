@@ -7,7 +7,7 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="working-papers"><strong>About Me</strong></h4>
 
-<p><font color="#000000">I am a fifth-year Ph.D. candidate in the Department of Economics at Michigan State University. My research interest is in Labor Economics and Economics of Education. Before pursuing my Ph.D., I earned a BA (Hons.) in Economics from Hans Raj College, University of Delhi, and an MA in Economics from Delhi School of Economics (DSE), University of Delhi. </font></p>
+<p><font color="#000000">I am a fifth-year Ph.D. candidate in the Department of Economics at Michigan State University. My research interest is in Labor Economics and Economics of Education. </font></p>
 
 <p><font color="#000000">I am interested in topics related to determinants of human capital development, as well as examining the academic and labor market returns to skilling, entrepreneurship training, and alternative pedagogies. </font></p>
  
