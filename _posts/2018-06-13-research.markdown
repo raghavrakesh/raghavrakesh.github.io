@@ -126,6 +126,32 @@ tags: [jekyll]
   
 
   
+<p style="margin-top:30px;">
+  <b>
+    <strong>
+        <font size="3" style="color:#18453B">Shaping Minds: The Transformative Effects of Theatre-Based Learning</font>
+    </strong>
+    <br>
+    <font size="2" style="color:#000000;">
+      with
+      <a href="https://sites.google.com/site/ritamchaurey/" target="_blank">
+        <font face="Arial" color="#7BBD00">Ritam Chaurey</font>
+      </a>,
+      <a href="https://www.shantanukhanna.com/" target="_blank">
+        <font face="Arial" color="#7BBD00">Shantanu Khanna</font>
+      </a>,
+      <a href="https://sites.google.com/view/abhiroop/home" target="_blank">
+        <font face="Arial" color="#7BBD00">Abhiroop Mukhopadhyay</font>
+      </a>, and 
+      <a href="https://nishithprakash.com/">
+        <font face="Arial" color="#7BBD00">Nishith Prakash</font>
+      </a>
+      <a href="https://www.raisasherif.com/">
+        <font face="Arial" color="#7BBD00">Raisa Sherif</font>
+      </a>
+    </font>
+  </b>
+</p>
   
   
 <!--
