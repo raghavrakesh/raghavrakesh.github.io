@@ -142,10 +142,10 @@ tags: [jekyll]
       </a>,
       <a href="https://sites.google.com/view/abhiroop/home" target="_blank">
         <font face="Arial" color="#7BBD00">Abhiroop Mukhopadhyay</font>
-      </a>, and 
+      </a>, 
       <a href="https://nishithprakash.com/">
         <font face="Arial" color="#7BBD00">Nishith Prakash</font>
-      </a>
+      </a>, and
       <a href="https://www.raisasherif.com/">
         <font face="Arial" color="#7BBD00">Raisa Sherif</font>
       </a>
