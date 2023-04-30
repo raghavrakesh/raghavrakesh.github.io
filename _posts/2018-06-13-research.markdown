@@ -80,7 +80,43 @@ tags: [jekyll]
   
 <h4 style="margin-top:40px;" id="work-in-progress"><strong><center> SELECTED WORK IN PROGRESS</center></strong></h4>
 
- 
+
+<p style="margin-top:30px;">
+  <b>
+    <strong>
+        <font size="3" style="color:#008208">Sowing the Seeds of Entrepreneurship: Evaluation of Entrepreneurial Mindset Development Program in India</font>
+    </strong>
+    <br>
+    <font size="2" style="color:#000000;">
+      with 
+      <a href="https://sofiamaral.weebly.com/" target="_blank">
+        <font face="Arial" color="#7BBD00">Sofia Amaral</font>
+      </a>,
+      <font face="Arial" color="#7BBD00">Aakash Bhalothia</font>,
+      <a href="https://sites.google.com/site/ritamchaurey/" target="_blank">
+        <font face="Arial" color="#7BBD00">Ritam Chaurey</font>
+      </a>,
+      <a href="https://scholar.google.com/citations?user=5s0PNiUAAAAJ&hl=en" target="_blank">
+        <font face="Arial" color="#7BBD00">Isis Gaddis</font>
+      </a>,
+      <a href="https://www.econgaurav.com/" target="_blank">
+        <font face="Arial" color="#7BBD00">Gaurav Khanna</font>
+      </a>,
+      <a href="https://www.samreenmalik.net/" target="_blank">
+        <font face="Arial" color="#7BBD00">Samreen Malik</font>
+      </a>,
+      <a href="https://sites.google.com/view/abhiroop/home" target="_blank">
+        <font face="Arial" color="#7BBD00">Abhiroop Mukhopadhyay</font>
+      </a>, and 
+      <a href="https://nishithprakash.com/">
+        <font face="Arial" color="#7BBD00">Nishith Prakash</font>
+      </a>
+    </font>
+  </b>
+</p>
+  
+  
+  
 <!--
   
 <h4 style="margin-top:30px;" id="working-papers"><strong><center>WORKING PAPERS</center></strong></h4>
