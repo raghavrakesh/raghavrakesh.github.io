@@ -153,6 +153,22 @@ tags: [jekyll]
   </b>
 </p>
   
+
+<p style="margin-top:30px;">
+  <b>
+    <strong>
+        <font size="3" style="color:#18453B">Weather and College Student Achievement</font>
+    </strong>
+    <br>
+    <font size="2" style="color:#000000;">
+      with
+      <a href="https://www.andrewearle.com/">
+        <font face="Arial" color="#7BBD00">Andrew Earle</font>
+      </a>
+    </font>
+  </b>
+</p>
+
   
 <!--
   
