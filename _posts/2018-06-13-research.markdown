@@ -115,9 +115,6 @@ tags: [jekyll]
       </a>,
       <a href="https://www.samreenmalik.net/" target="_blank">
         <font face="Arial" color="#7BBD00">Samreen Malik</font>
-      </a>,
-      <a href="https://sites.google.com/view/abhiroop/home" target="_blank">
-        <font face="Arial" color="#7BBD00">Abhiroop Mukhopadhyay</font>
       </a>, and 
       <a href="https://nishithprakash.com/">
         <font face="Arial" color="#7BBD00">Nishith Prakash</font>
@@ -133,7 +130,7 @@ tags: [jekyll]
 <p style="margin-top:30px;">
   <b>
     <strong>
-        <font size="3" style="color:#18453B">Shaping Minds: The Transformative Effects of Theatre-Based Learning</font>
+        <font size="3">Shaping Minds: The Transformative Effects of Theatre-Based Learning</font>
     </strong>
     <br>
     <font size="2" style="color:#000000;">
@@ -163,7 +160,7 @@ tags: [jekyll]
 <p style="margin-top:30px;">
   <b>
     <strong>
-        <font size="3" style="color:#18453B">Weather and College Student Achievement</font>
+        <font size="3">Weather and College Student Achievement</font>
     </strong>
     <br>
     <font size="2" style="color:#000000;">
