@@ -77,18 +77,20 @@ tags: [jekyll]
     </p>
   </details>
 </ul>
-  
-<h4 style="margin-top:40px;" id="work-in-progress"><strong><center> SELECTED WORK IN PROGRESS</center></strong></h4>
 
 <p style="margin-top:30px;">
   <b>
     <strong>
-        <font size="3" style="color:#18453B">The Impact of International Peers on College Student Achievement</font>
+        <font size="3" style="color:#18453B">International Peers in Higher Education and Domestic Students' Outcomes</font>
     </strong>
     <br>
   </b>
 </p>
- 
+
+  
+<h4 style="margin-top:40px;" id="work-in-progress"><strong><center> SELECTED WORK IN PROGRESS</center></strong></h4>
+
+
   
 <p style="margin-top:30px;">
   <b>
