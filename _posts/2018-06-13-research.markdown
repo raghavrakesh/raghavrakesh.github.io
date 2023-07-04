@@ -95,7 +95,7 @@ tags: [jekyll]
 <p style="margin-top:30px;">
   <b>
     <strong>
-        <font size="3" style="color:#18453B">Sowing the Seeds of Entrepreneurship: Evaluation of Entrepreneurial Mindset Development Program in India</font>
+        <font size="3" >Sowing the Seeds of Entrepreneurship: Evaluation of Entrepreneurial Mindset Development Program in India</font>
     </strong>
     <br>
     <font size="2" style="color:#000000;">
