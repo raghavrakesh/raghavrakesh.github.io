@@ -115,6 +115,9 @@ tags: [jekyll]
       </a>,
       <a href="https://www.samreenmalik.net/" target="_blank">
         <font face="Arial" color="#7BBD00">Samreen Malik</font>
+      </a>, 
+      <a href="https://sites.google.com/view/abhiroop/home" target="_blank">
+        <font face="Arial" color="#7BBD00">Abhiroop Mukhopadhyay</font>
       </a>, and 
       <a href="https://nishithprakash.com/">
         <font face="Arial" color="#7BBD00">Nishith Prakash</font>
