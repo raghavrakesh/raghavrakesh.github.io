@@ -90,15 +90,6 @@ tags: [jekyll]
   </details>
 </ul>
 
-<p style="margin-top:30px;">
-  <b>
-    <strong>
-        <font size="3" style="color:#18453B">International Peers in Higher Education and Domestic Students' Outcomes</font>
-    </strong>
-    <br>
-  </b>
-</p>
-
   
 <h4 style="margin-top:40px;" id="work-in-progress"><strong><center> SELECTED WORK IN PROGRESS</center></strong></h4>
 
