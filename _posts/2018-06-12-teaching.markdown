@@ -4,4 +4,26 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
+<h4 style="margin-top:30px;" id="teaching"><strong>Teaching Experience</strong></h4>
+
+<h4><strong><p>Michigan State University</p></strong></h4>
+
+<p style="margin-top:20px;"><strong style="color:#18453B">Instructor </strong></p>
+
+<ul style="margin-top:-20px;">
+  <li><font  color="#000000">Intermediate Microeconomics (Summer 2020)</li>
+</ul> 
+
+<p style="margin-top:20px;"><strong style="color:#18453B">Teaching Assistant (2018-Present)</strong></p>
+
+<ul style="margin-top:-20px;">
+  <li><font  color="#000000">Advanced Microeconomics (Game Theory)</li>
+  <li><font  color="#000000">Introductory Microeconomics (&times4)</li>
+  <li><font  color="#000000">Intermediate Microeconomics (&times3)</li> 
+  <li><font color="#000000">Introductory Macroeconomics</li> 
+</ul> 
+
+
+
+
 
