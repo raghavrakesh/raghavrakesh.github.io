@@ -4,6 +4,8 @@ categories: [jekyll]
 tags: [jekyll]
 ---
 
+<!---
+
 <h4 style="margin-top:30px;" id="teaching"><strong>Teaching Experience</strong></h4>
 
 <h4><strong><p>Michigan State University</p></strong></h4>
@@ -23,7 +25,7 @@ tags: [jekyll]
   <li><font color="#000000">Introductory Macroeconomics</li> 
 </ul> 
 
-
+-->
 
 
 
