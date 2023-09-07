@@ -7,11 +7,11 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="working-papers"><strong>About Me</strong></h4>
 
-<p><font color="#000000">Welcome! I am a Ph.D. candidate in the Department of Economics at Michigan State University. My research interest is in Labor Economics and Economics of Education. </font></p>
+<p><font color="#000000">I am a Ph.D. candidate in the Department of Economics at Michigan State University. </font></p>
 
-<p><font color="#000000">I am interested in topics related to determinants of human capital development, as well as examining the academic and labor market returns to skilling, entrepreneurship training, and alternative pedagogies. </font></p>
- 
-<p><font color="#000000">My Job Market Paper studies the effects of foreign peers on domestic students' academic outcomes in post-secondary education in the US. My other Ph.D. work studies the economic spillover effects of foreign students in places with host post-secondary institutions.  </font></p>
+<p><font color="#000000">My research interest is in Labor Economics and Economics of Education. I am interested in topics related to determinants of human capital development, as well as examining the academic and labor market returns to skilling, entrepreneurship training, and alternative pedagogies. My Job Market Paper studies the effects of foreign peers on domestic students' academic outcomes in post-secondary education in the US.</font></p>
 
 <p><font color="#000000">I will be on the 2023-24 job market and available for interviews.</font></p>
+
+<p style="color:#000000;">For more information, please see my <a href="{{ site.baseurl }}/files/CV_Raghav_Rakesh.pdf"><b><font face="Arial" color="#18453B">CV </font></b></a> or contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#C35900">rakeshra@msu.edu</font></b></a>.</p>
 
