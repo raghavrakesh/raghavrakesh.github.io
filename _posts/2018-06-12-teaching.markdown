@@ -7,7 +7,7 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="teaching"><strong>Teaching Experience</strong></h4>
 
-<h4><p><font size="+2"> Michigan State University </font></p></h4>
+<h4> style="margin-top:30px;"<p><font size="+2"> Michigan State University </font></p></h4>
 
 <p style="margin-top:20px;"><strong style="color:#18453B">Instructor </strong></p>
 
@@ -19,9 +19,9 @@ tags: [jekyll]
 <p style="margin-top:20px;"><strong style="color:#18453B">Teaching Assistant (2018-Present)</strong></p>
 
 <ul style="margin-top:-20px;">
-  <li><font  color="#000000">Advanced Microeconomics (Game Theory)</font> </li>
-  <li><font  color="#000000">Introductory Microeconomics (x4)</font> </li>
+  <li><font  color="#000000">Introductory Microeconomics (x5)</font> </li>
   <li><font  color="#000000">Intermediate Microeconomics (x3)</font> </li> 
+  <li><font  color="#000000">Advanced Microeconomics (Game Theory)</font> </li>
   <li><font color="#000000">Introductory Macroeconomics</font> </li> 
 </ul> 
 
