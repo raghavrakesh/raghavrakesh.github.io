@@ -7,7 +7,7 @@ tags: [jekyll]
 
 <h4 style="margin-top:30px;" id="teaching"><strong>Teaching Experience</strong></h4>
 
-<h4 style="margin-top:30px;"><font size="+2"> Michigan State University </font></h4>
+<h4 style="margin-top:30px;"><font size="+1"> Michigan State University </font></h4>
 
 <p style="margin-top:20px;"><strong style="color:#18453B">Instructor </strong></p>
 
