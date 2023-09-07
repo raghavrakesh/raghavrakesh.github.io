@@ -12,16 +12,17 @@ tags: [jekyll]
 <p style="margin-top:20px;"><strong style="color:#18453B">Instructor </strong></p>
 
 <ul style="margin-top:-20px;">
-  <li><font  color="#000000">Intermediate Microeconomics (Summer 2020)</li>
+  <li><font  color="#000000">Intermediate Microeconomics (Summer 2020) </li>
 </ul> 
+
 
 <p><strong style="color:#18453B">Teaching Assistant (2018-Present)</strong></p>
 
 <ul style="margin-top:-20px;">
-  <li><font  color="#000000">Advanced Microeconomics (Game Theory)</li>
-  <li><font  color="#000000">Introductory Microeconomics (&times4)</li>
-  <li><font  color="#000000">Intermediate Microeconomics (&times3)</li> 
-  <li><font color="#000000">Introductory Macroeconomics</li> 
+  <li><font  color="#000000">Advanced Microeconomics (Game Theory) </li>
+  <li><font  color="#000000">Introductory Microeconomics (&times4) </li>
+  <li><font  color="#000000">Intermediate Microeconomics (&times3) </li> 
+  <li><font color="#000000">Introductory Macroeconomics </li> 
 </ul> 
 
 
