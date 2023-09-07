@@ -44,9 +44,12 @@ tags: [jekyll]
       <a href="https://nishithprakash.com/">
         <font face="Arial" color="#7BBD00">Nishith Prakash</font>
       </a>
-    </font>
+    </font> | 
+    <font size="2" style="color:#000000;">Coverage: <a href="https://indianexpress.com/article/education/students-who-learn-science-in-higher-secondary-may-earn-better-study-6403495/" > <font face="Arial" color="#7BBD00">Indian Express</font></a> , <a href="https://timesofindia.indiatimes.com/city/ahmedabad/science-grads-earn-22-more-says-iim-a-study/articleshow/86020486.cms" ><font face="Arial" color="#7BBD00">Times of India</font></a>, <a href="https://news.careers360.com/iim-ahmedabad-placement-iima-study-class-12-science-stream-income-jobs-recruitment-humanities-commerce-bihar-board-andhra-pradesh" ><font face="Arial" color="#7BBD00">Careers 360</font></a>, <a href="https://www.ideasforindia.in/topics/macroeconomics/science-in-school-the-educational-and-economic-outcomes-from-high-school-science.html" ><font face="Arial" color="#7BBD00">Ideas for India</font></a></font><br>
   </b>
 </p>
+
+
  
   
 <ul style="margin-top:-17px;">
