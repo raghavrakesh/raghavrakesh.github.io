@@ -13,5 +13,5 @@ tags: [jekyll]
 
 <p><font color="#000000">I will be on the 2023-24 job market and available for interviews.</font></p>
 
-<p style="color:#000000;">For more information, please see my <a href="{{ site.baseurl }}/files/CV_Raghav_Rakesh.pdf"><b><font face="Arial" color="#0B9A6D">CV </font></b></a> or contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#008208">rakeshra@msu.edu</font></b></a>.</p>
+<p style="color:#000000;">For more information, please see my <a href="{{ site.baseurl }}/files/CV_Raghav_Rakesh.pdf"><b><font face="Arial" color="#008208">CV </font></b></a> or contact me at  <a href="mailto:{{ site.author.email }}" title="Email {{ site.author.email }}" target="_blank"><b><font face="Arial" color="#008208">rakeshra@msu.edu</font></b></a>.</p>
 
