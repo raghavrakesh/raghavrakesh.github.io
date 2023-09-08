@@ -138,6 +138,37 @@ tags: [jekyll]
 </p>
   
 
+<p style="margin-top:30px;">
+  <b>
+    <strong>
+        <font size="3">Weather and College Student Achievement</font>
+    </strong>
+    <br>
+    <font size="2" style="color:#000000;">
+      with
+      <a href="https://www.andrewearle.com/">
+        <font face="Arial" color="#7BBD00">Andrew Earle</font>
+      </a>
+    </font>
+    <br>
+    <font size="2" style="color:#000000;">Presentations: SEA 2023* (scheduled) </font>
+  </b>
+</p>
+
+<ul style="margin-top:-17px;">
+  <details>
+    <summary>
+      <font size="2">Abstract:</font>
+    </summary>
+    <p>
+      <font size="2" style="color:#000000;">
+        This paper investigates how the weather impacts college students’ academic achievement. Previous studies have focused almost exclusively on extreme heat, and no existing work explores the relationship in the context of higher education. While heat significantly impacts learning, college students are likely influenced by a range of weather conditions. Because US university academic calendars overlap with colder months of the year, rather than the hottest, it is important to understand how cold and precipitation impact college students’ learning. Using several years of administrative, student-level data from a large US public university and leveraging within-student exposure to adverse weather across semesters, we estimate the causal impact of cold and precipitation on students’ semester GPAs. We explore four possible mechanisms that may drive the relationship: cost of commute, cognitive performance, the opportunity cost of academic activities, and mental health. Our analysis provides new evidence that the weather impacts human capital accumulation, and our findings could help inform college student success initiatives.
+      </font>
+    </p>
+  </details>
+</ul>
+
+
   
 <p style="margin-top:30px;">
   <b>
@@ -168,24 +199,6 @@ tags: [jekyll]
   </b>
 </p>
   
-
-<p style="margin-top:30px;">
-  <b>
-    <strong>
-        <font size="3">Weather and College Student Achievement</font>
-    </strong>
-    <br>
-    <font size="2" style="color:#000000;">
-      with
-      <a href="https://www.andrewearle.com/">
-        <font face="Arial" color="#7BBD00">Andrew Earle</font>
-      </a>
-    </font>
-    <br>
-    <font size="2" style="color:#000000;">Presentations: SEA 2023* (scheduled) </font>
-  </b>
-</p>
-
 
 
 <p style="margin-top:60px;"><font size="2" style="color:#000000;"> *presentation by co-author</font></p>
