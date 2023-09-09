@@ -136,6 +136,20 @@ tags: [jekyll]
     <font size="2" style="color:#000000;">Status: Endline Data Collection Starting Soon</font>
   </b>
 </p>
+
+<ul style="margin-top:-17px;">
+  <details>
+    <summary>
+      <font size="2">Abstract:</font>
+    </summary>
+    <p>
+      <font size="2" style="color:#000000;">
+        Growing evidence shows that new economic opportunities and challenges will make many existing workforce skill profiles obsolete in the medium and long run. There is a growing demand for entrepreneurial and soft skills. However, employers often struggle to find workers with high levels of these skills. To build skills for a volatile and evolving labor market, the Government of Andhra Pradesh (GoAP), India, launched a state-wide program, the Entrepreneurship Mindset Development Program (EMDP), in state government schools in the Academic Year (AY) 2022-23. The program consists of a unique curriculum to train students of Grade 9 on entrepreneurial skills and mindsets over an entire academic year. This paper evaluates this program. Working closely with the GoAP and the implementation NGOs on the rollout of the program, we have designed a randomized control trial (RCT), where 50 sub-districts are randomly assigned to the control group. The remaining 630 sub-districts of the state receive the program; however, randomly sampled 75 sub-districts form the treatment group in the study sample. Using primary surveys and lab experiments, we measure the impact of the program on various entrepreneurial skills and related outcomes.
+      </font>
+    </p>
+  </details>
+</ul>
+
   
 
 <p style="margin-top:30px;">
