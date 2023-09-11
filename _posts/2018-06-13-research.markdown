@@ -212,6 +212,19 @@ tags: [jekyll]
     <font size="2" style="color:#000000;">Status: Pilot</font>
   </b>
 </p>
+
+<ul style="margin-top:-17px;">
+  <details>
+    <summary>
+      <font size="2">Abstract:</font>
+    </summary>
+    <p>
+      <font size="2" style="color:#000000;">
+        Despite progress in addressing barriers to human capital in the last two decades, significant learning gaps persist. A new line of research suggests that holistic skills have been associated with positive impacts on later life outcomes. However, there is little evidence supporting the effectiveness of existing traditional classroom-based instructional strategies in improving non-cognitive and socio-emotional skills. In this study, we conduct a randomized control trial in 100 schools in Uttarakhand, India to estimate the causal impacts of an experiential learning pedagogy in secondary schools. The curriculum consists of a total of 36 hours of arts and theater-based instruction spread over 24 weekly sessions. We will measure the impacts on cognitive skills (critical thinking and learning), social skills (class participation, network formation, communication skills, pro-sociality), and emotional skills (stress, anxiety, self-care, self-esteem).
+      </font>
+    </p>
+  </details>
+</ul>
   
 
 
