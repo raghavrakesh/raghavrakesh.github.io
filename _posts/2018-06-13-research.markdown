@@ -195,6 +195,9 @@ tags: [jekyll]
       <a href="https://sites.google.com/site/ritamchaurey/" target="_blank">
         <font face="Arial" color="#7BBD00">Ritam Chaurey</font>
       </a>,
+      <a href="https://saraconstantino.com/" target="_blank">
+        <font face="Arial" color="#7BBD00">Sara Constantino</font>
+      </a>,
       <a href="https://www.shantanukhanna.com/" target="_blank">
         <font face="Arial" color="#7BBD00">Shantanu Khanna</font>
       </a>,
