@@ -23,7 +23,16 @@ tags: [jekyll]
   <li><font  color="#000000">Intermediate Microeconomics (x3)</font> </li> 
   <li><font  color="#000000">Advanced Microeconomics (Game Theory)</font> </li>
   <li><font color="#000000">Introductory Macroeconomics</font> </li> 
-</ul> 
+</ul>
+
+<h4 style="margin-top:30px;"><font size="+1"> AEA Summer Program </font></h4>
+
+<p style="margin-top:20px;"><strong style="color:#008208">Tutor (2020)</strong></p>
+
+<ul style="margin-top:-20px;">
+  <li><font  color="#000000">Advanced Mathematical Methods</font> </li>
+  <li><font  color="#000000">Advanced Econometrics</font> </li> 
+</ul>
 
 
 
