@@ -9,7 +9,7 @@ tags: [jekyll]
 
 <p><font color="#000000">I am a Ph.D. candidate in the Department of Economics at Michigan State University. </font></p>
 
-<p><font color="#000000">My research interest is in Labor Economics and Economics of Education. I am interested in topics related to determinants of human capital development, as well as examining the academic and labor market returns to skilling, entrepreneurship training, and alternative pedagogies. My Job Market Paper studies the effects of foreign peers on domestic students' academic outcomes in post-secondary education in the US.</font></p>
+<p><font color="#000000">My research interest is in Labor Economics and the Economics of Education. I am interested in topics exploring the dynamic interplay of human capital development and labor market outcomes, with a particular focus on education. My Job Market Paper studies the effects of exposure to foreign peers on domestic students' academic outcomes in post-secondary education in the US.</font></p>
 
 <p><font color="#000000">I will be on the 2023-24 job market and available for interviews.</font></p>
 
