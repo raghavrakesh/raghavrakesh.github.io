@@ -18,6 +18,20 @@ tags: [jekyll]
   </b>
   <font size="2" style="color:#000000;">Presentations: SEA 2023 (scheduled) </font>
 </p>
+
+<ul style="margin-top:-17px;">
+  <details>
+    <summary>
+      <font size="2">Abstract:</font>
+    </summary>
+    <p>
+      <font size="2" style="color:#000000;">
+      Recent decades witnessed a rapid increase in foreign post-secondary student enrollment in the US, substantially altering the college landscape. While evidence suggests that foreign students contribute significantly to university revenues and the host economy, there remains much debate around their impact on domestic students' outcomes. Using rich administrative and survey data from a large US public university, this paper explores the effects of exposure to foreign peers in college courses on domestic students' academic outcomes. I focus on first-term introductory math courses and leverage plausibly exogenous variation in the share of foreign peers across terms but within a course-instructor pair. I find that exposure to foreign peers in lower-ability (non-calculus) courses has a sizable negative effect on the graduation rate of domestic students; students in higher-ability (calculus-based) courses are unaffected by their foreign peers. The decline in graduation comes through a drop in students graduating with non-STEM degrees, with no effect on the number of STEM graduates. Further, the negative effects are incurred by domestic students of all races except Asians; domestic Asian students incur positive effects. Exploring potential mechanisms, I find suggestive evidence of limited interaction, lack of shared interests or culture, and language barriers between domestic and foreign students. Additionally, evidence points to the potential role of domestic students' lower academic rank in their peer group. At the same time, I do not find evidence of negative social preferences associated with races or immigrants among domestic students, nor do I find evidence linking the effect to differences in abilities between domestic and foreign students.
+      </font>
+    </p>
+  </details>
+</ul>
+
   
 <h4 style="margin-top:30px;" id="publications"><strong><center>PUBLICATIONS</center></strong></h4>
 
