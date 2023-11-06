@@ -12,7 +12,9 @@ tags: [jekyll]
 <p style="margin-top:30px;">
   <b>
     <strong>
+      <a href="{{ site.baseurl }}/files/Local_Economic_Impacts_of_Foreign_Students.pdf" target="_blank">
         <font size="3" style="color:#008208">International Peers in Higher Education and Domestic Students' Outcomes</font>
+      </a>
     </strong>
     <br>
   </b>
