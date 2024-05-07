@@ -18,7 +18,7 @@ tags: [jekyll]
     </strong>
     <br>
   </b>
-  <font size="2" style="color:#000000;">Presentations: SEA 2023 (scheduled) </font>
+  <font size="2" style="color:#000000;">Presentations: SEA 2023 </font>
 </p>
 
 <ul style="margin-top:-17px;">
@@ -183,7 +183,7 @@ tags: [jekyll]
       </a>
     </font>
     <br>
-    <font size="2" style="color:#000000;">Presentations: SEA 2023* (scheduled) </font>
+    <font size="2" style="color:#000000;">Presentations: SEA 2023* </font>
   </b>
 </p>
 
